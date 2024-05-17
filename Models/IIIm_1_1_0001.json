@@ -1,0 +1,7 @@
+{
+    "algo": "IIIm_120_15_0001",
+    "nnbrs": 1,
+    "min_nbrs": 1,
+    "min_sim": 0.001,
+    "feedback": "implicit"
+}
